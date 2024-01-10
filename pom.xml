@@ -567,7 +567,7 @@
     <repository>
            <id>maven-releases</id>
            <name>maven-releases</name>
-           <url>http://54.161.112.130:8081/repository/maven-releases/</url>
+           <url>http://107.23.63.180:8081/repository/maven-releases/</url>
     </repository>
              
     </repositories>
